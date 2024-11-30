@@ -1,10 +1,10 @@
 ## This repository offers a collection of popular e-books on Flutter, which you can easily share with aspiring developers. Just select a book, click the download button, and you're set!
 - Flutter E-Books:
   - [Burd B. Flutter For Dummies 2020](https://github.com/jamalihassan0307/Flutter-E-Books/blob/master/Burd%20B.%20Flutter%20For%20Dummies%202020.pdf)
-  - [Data Structures & Algorithms in Dart](https://github.com/jamalihassan0307/Flutter-E-Books/blob/master/Data%20Structures%20%26%20Algorithms%20in%20Dart.pdf)
+  - [Data Structures & Algorithms in Dart](https://github.com/jamalihassan0307/Flutter-E-Books/blob/main/Data%20Structures%20%26%20Algorithms%20in%20Dart_compressed.pdf)
   - [Flutter Apprentice New Version](https://github.com/jamalihassan0307/Flutter-E-Books/blob/main/Flutter%20Apprentice%20New%20Version.pdf)
   - [Flutter Complete Reference](https://github.com/jamalihassan0307/Flutter-E-Books/blob/main/Flutter%20Complete%20Reference.pdf)
-  - [Flutter Cookbook](https://github.com/jamalihassan0307/Flutter-E-Books/blob/master/Flutter%20Cookbook.pdf)
+  - [Flutter Cookbook](https://github.com/jamalihassan0307/Flutter-E-Books/blob/main/Flutter%20Cookbook_c.pdf)
   - [Flutter Succinctly](https://github.com/jamalihassan0307/Flutter-E-Books/blob/master/Flutter%20Succinctly.pdf)
   - [Flutter UI Succinctly](https://github.com/jamalihassan0307/Flutter-E-Books/blob/main/Flutter%20Succinctly.pdf)
   - [Managing State in Flutter Pragmatically By Waleed Arshad](https://github.com/jamalihassan0307/Flutter-E-Books/blob/main/Managing%20State%20in%20Flutter%20Pragmatically%20By%20Waleed%20Arshad.pdf)
